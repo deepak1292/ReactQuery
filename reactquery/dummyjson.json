@@ -1,0 +1,14 @@
+{
+    "Banks":[{
+        "name":"Centeral Bank of India",
+        "id":"CB-0287"
+    },
+    {
+        "name":"ICICI Bank",
+        "id":"ICIC-1250"
+    },
+    {
+        "name":"HDFC",
+        "id":"HDFC-093"
+    }]
+}
